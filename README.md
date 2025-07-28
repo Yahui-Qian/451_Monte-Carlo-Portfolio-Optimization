@@ -14,14 +14,6 @@ The study aims to:
 • Visualize and interpret the efficient frontiers and Sharpe Ratio distributions.
 • Provide insights on how practical investment constraints affect optimization outcomes.
 
-Project Structure
-
-MonteCarloPortfolio/
-├── Monte Carlo Analysis.ipynb           # Python notebook with simulation and visualizations
-├── Monte Carlo Portfolio Optimization.pdf  # Final report (Adobe PDF)
-├── Monte Carlo Analysis.html            # HTML export of the notebook
-├── README.md                            # This documentation file
-
 Instructions
 
 Requirements
